@@ -27,3 +27,11 @@ or
 `yarn add typescript @types/node @types/react @types/react-dom @types/jest`
 
 (rename any file to be a TypeScript file (e.g. src/index.js to src/index.tsx) and restart your development server!)
+
+## Icons
+
+### Unplugin_icons
+
+- https://github.com/unplugin/unplugin-icons
+- Iconify: https://github.com/iconify/iconify
+- Browse Icons: https://icones.js.org/
